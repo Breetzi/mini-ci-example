@@ -1,3 +1,4 @@
-module github.com/clc3-CloudComputing/clc3-ws23/1-Building-a-Microservice/exercise1.1
+module github.com/agrimmer/mini-ci-example-gh
 
 go 1.21
+
